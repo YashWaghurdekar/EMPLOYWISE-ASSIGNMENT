@@ -21,7 +21,7 @@ A React application that integrates with the Reqres API to perform basic user ma
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/YashWaghurdekar/EMPLOYWISE-ASSIGNMENT.git
 cd employwise-assignment
 ```
 
